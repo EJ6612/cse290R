@@ -1,3 +1,6 @@
+# *CSE 290R* 
+Playground for git class.
+
 # Header 1
 ## Header 2
 ### Header 3 
@@ -7,6 +10,3 @@
 *bold* 
 **italic** 
 ***both?***
-
-# *CSE 290R* 
-Playground for git class.
