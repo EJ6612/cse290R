@@ -1,0 +1,1 @@
+This folder is the random stuff from Weeks 01-03. I want to keep it because it's fun.
