@@ -11,10 +11,13 @@ header {
     padding: 20px; /* Changed padding */
     text-align: center; /* Changed text alignment */
     font-size: 18px; /* Changed font size */
-    font-family: 'Courier New', Courier, monospace; /* Changed font family */
     height: 80px; /* Changed height */
     box-shadow: 0 4px 10px rgba(0,0,0,0.5); /* Adjusted box shadow */
     border-bottom: 3px solid #ccc; /* Added border */
+    /* Set a fixed height for the header */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 2px 5px rgba(68, 0, 255, 0.2);
+
 }
 
 iframe {
